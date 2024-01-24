@@ -1,5 +1,8 @@
 # INTERNSHIP
-Arun John MS
+## [Arun John MS](https://github.com/Runa8147)
+I'm Arun John, a Computer Science Engineering student at Jyothi Engineering College.
+My journey into the world of computers began with a spark, ignited by the endless possibilities of technology with Jyothi engineering college.
+Connect with me and let's embark on a journey where code meets creativity, and stories come to life on the digital canvas!
 
 ## PROGRAMS
 ### 3D DESIGNING
