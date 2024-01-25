@@ -12,7 +12,7 @@ Connect with me and let's embark on a journey where code meets creativity, and s
 3. [3D PRINTING AND DESIGNING FUSION 360]()
 
 ### INDUSTRIAL ROBOTICS
-1. [BASICS ON INDUSTRIAL ROBOTS]()
+1. [BASICS ON INDUSTRIAL ROBOTS](https://github.com/Runa8147/Internship2024/blob/main/ROBOTIC%20ARM.jpg)
 2. [CERTIFICATION IN YASKAWA SAFETY PRINCIPLES](https://github.com/Runa8147/Internship2024/blob/main/MTEC%20CertificateAbsorbFields-1.pdf)
 3. [DEMONSTRATION OF AR1440](https://github.com/Runa8147/Internship2024/blob/main/MOTOMAN-AR1440_max.png)
 
