@@ -9,7 +9,7 @@ Connect with me and let's embark on a journey where code meets creativity, and s
 ### 3D DESIGNING
 1. [3D PRINTING AND DESIGNING TINKERCAD](https://github.com/Runa8147/Internship2024/blob/main/house3d.png)
 2. [3D PRINTING AND DESIGNING CREO](https://github.com/Runa8147/Internship2024/blob/main/CREO.jpg)
-3. [Ball bearing 3D design-creo ]()
+3. [Ball bearing 3D design-creo ](https://github.com/Runa8147/Internship2024/blob/main/WhatsApp%20Image%202024-01-26%20at%2022.12.49_652d1f95.jpg)
 
 ### INDUSTRIAL ROBOTICS
 
