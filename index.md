@@ -29,6 +29,7 @@ Practiced programming the robot to perform automated pick-and-place tasks within
 Explored the potential for robot-assisted welding applications through demonstrations and discussions.
 Also got certified in Robotics safety principles with the help of a mentor and was motivated to learn more about the future of the world of robotics.
 [CERTIFICATION IN YASKAWA SAFETY PRINCIPLES](https://github.com/Runa8147/Internship2024/blob/main/MTEC%20CertificateAbsorbFields-1.pdf)
+####
 <img src=https://github.com/Runa8147/Internship2024/blob/main/MOTOMAN-AR1440_max.png width="200" height="300">
 <img src=https://github.com/Runa8147/Internship2024/blob/main/ROBOTIC%20ARM.jpg width="400" height="200">
 ![](https://github.com/Runa8147/Internship2024/blob/main/arc%20welding.gif)
