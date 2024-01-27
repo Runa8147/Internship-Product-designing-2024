@@ -43,6 +43,7 @@ Visited Shornnur Plastic Industry under cooperation to witness the injection mol
 <img src=https://github.com/Runa8147/Internship2024/blob/main/IMG-20240127-WA0002.jpg width="200" height="100">
 <img src=https://github.com/Runa8147/Internship2024/blob/main/IMG-20240127-WA0003.jpg width="100" height="200">
 <img src=https://github.com/Runa8147/Internship2024/blob/main/IMG-20240127-WA0005.jpg width="200" height="100">
+
 ![](https://github.com/Runa8147/Internship2024/blob/main/powerhammer.gif)
 
 
