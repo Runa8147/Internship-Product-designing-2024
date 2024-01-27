@@ -1,6 +1,6 @@
 # INTERNSHIP
 ## [Arun John MS](https://github.com/Runa8147)
-!(https://github.com/Runa8147/Internship2024/blob/main/arunph.jpg)
+![](https://github.com/Runa8147/Internship2024/blob/main/arunph.jpg)
 Date:23/1/2024-27/2/2024
 IIIC Jyothi
 
