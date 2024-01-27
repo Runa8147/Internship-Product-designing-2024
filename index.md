@@ -39,6 +39,7 @@ Also got certified in Robotics safety principles with the help of a mentor and w
 Visited Shornnur Government Metal Industries to observe the forging process firsthand, understanding the transformation of raw metal from scraps of rail into desired shapes like hammers, spades, and pick axes.
 Learned about different forging techniques including hand forging and forging using power hammers and electrical high-efficiency furnaces and types of equipment used in the industry like electrical furnaces(LTF, HTF), hand forging tools, power hammers, planing machines, and hydraulic machines.
 Visited Shornnur Plastic Industry under cooperation to witness the injection molding process, gaining insights into plastic part production from design to fabrication.
+###
 <img src=https://github.com/Runa8147/Internship2024/blob/main/IMG-20240127-WA0002.jpg width="200" height="100">
 <img src=https://github.com/Runa8147/Internship2024/blob/main/IMG-20240127-WA0003.jpg width="100" height="200">
 <img src=https://github.com/Runa8147/Internship2024/blob/main/IMG-20240127-WA0005.jpg width="200" height="100">
