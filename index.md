@@ -13,35 +13,35 @@ This report summarizes my five-day internship experience at [Company Name], focu
 ### Tinkercad and Robotics Fundamentals
 Explored Tinkercad, a user-friendly 3D modeling platform, to create basic 3D models.
 Created a 3d model of a house using basic shapes and functions and shared it with my friends. 
-[3D PRINTING AND DESIGNING TINKERCAD](https://github.com/Runa8147/Internship2024/blob/main/house3d.png)
+![3D PRINTING AND DESIGNING TINKERCAD](https://github.com/Runa8147/Internship2024/blob/main/house3d.png)
 Received an introduction to industrial robotics, covering key concepts like robot anatomy, types of robots, and applications.
 Learned about robot programming basics and control systems used in industrial settings.
-[BASICS ON INDUSTRIAL ROBOTS](https://github.com/Runa8147/Internship2024/blob/main/ROBOTIC%20ARM.jpg)
+![BASICS ON INDUSTRIAL ROBOTS](https://github.com/Runa8147/Internship2024/blob/main/ROBOTIC%20ARM.jpg)
 
 ## Day 2️⃣ & 3️⃣
 ### Creo 3D and AR1440 Robot Operation
 Gained hands-on experience with Creo Parametric, a professional 3D modeling software, for designing complex parts and mechanisms.
 Learned basic operations and created first model in Creo along with friends.
-[3D DESIGNING CREO](https://github.com/Runa8147/Internship2024/blob/main/CREO.jpg)
-[Ball bearing 3D design Creo ](https://github.com/Runa8147/Internship2024/blob/main/WhatsApp%20Image%202024-01-26%20at%2022.12.49_652d1f95.jpg)
+![3D DESIGNING CREO](https://github.com/Runa8147/Internship2024/blob/main/CREO.jpg)
+![Ball bearing 3D design Creo ](https://github.com/Runa8147/Internship2024/blob/main/WhatsApp%20Image%202024-01-26%20at%2022.12.49_652d1f95.jpg)
 Received training on the operation of the AR1440 robot, focusing on pick-and-place functionalities and basic programming routines.
 Practiced programming the robot to perform automated pick-and-place tasks within simulated scenarios.
 Explored the potential for robot-assisted welding applications through demonstrations and discussions.
 Also got certified in Robotics safety principles with the help of a mentor and was motivated to learn more about the future of the world of robotics.
 [CERTIFICATION IN YASKAWA SAFETY PRINCIPLES](https://github.com/Runa8147/Internship2024/blob/main/MTEC%20CertificateAbsorbFields-1.pdf)
-!(https://github.com/Runa8147/Internship2024/blob/main/MOTOMAN-AR1440_max.png)
-!(https://github.com/Runa8147/Internship2024/blob/main/ROBOTIC%20ARM.jpg)
-!(https://github.com/Runa8147/Internship2024/blob/main/arc%20welding.gif)
+![](https://github.com/Runa8147/Internship2024/blob/main/MOTOMAN-AR1440_max.png)
+![](https://github.com/Runa8147/Internship2024/blob/main/ROBOTIC%20ARM.jpg)
+![](https://github.com/Runa8147/Internship2024/blob/main/arc%20welding.gif)
 
 ## Day5️⃣
 ### Industry Visits - Shornnur Metal Industry and Plastic Industry
 Visited Shornnur Government Metal Industries to observe the forging process firsthand, understanding the transformation of raw metal from scraps of rail into desired shapes like hammers, spades, and pick axes.
 Learned about different forging techniques including hand forging and forging using power hammers and electrical high-efficiency furnaces and types of equipment used in the industry like electrical furnaces(LTF, HTF), hand forging tools, power hammers, planing machines, and hydraulic machines.
 Visited Shornnur Plastic Industry under cooperation to witness the injection molding process, gaining insights into plastic part production from design to fabrication.
-!(https://github.com/Runa8147/Internship2024/blob/main/IMG-20240127-WA0002.jpg)
-!(https://github.com/Runa8147/Internship2024/blob/main/IMG-20240127-WA0003.jpg)
-!(https://github.com/Runa8147/Internship2024/blob/main/IMG-20240127-WA0005.jpg)
-!(https://github.com/Runa8147/Internship2024/blob/main/powerhammer.gif)
+![](https://github.com/Runa8147/Internship2024/blob/main/IMG-20240127-WA0002.jpg)
+![](https://github.com/Runa8147/Internship2024/blob/main/IMG-20240127-WA0003.jpg)
+![](https://github.com/Runa8147/Internship2024/blob/main/IMG-20240127-WA0005.jpg)
+![](https://github.com/Runa8147/Internship2024/blob/main/powerhammer.gif)
 
 
 
